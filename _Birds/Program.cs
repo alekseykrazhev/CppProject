@@ -17,6 +17,7 @@ namespace _Birds
             if (!check.CanFloat())
             {
                 Console.WriteLine("Apparently, kiwi can't float");
+                
             }
 
             check.Name = "Not Kiwiiii";

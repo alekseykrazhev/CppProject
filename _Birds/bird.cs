@@ -46,6 +46,7 @@ namespace _Birds
         public string Name { get; set; }
         public double Weight { get; set; }
         public double Age { get; set; }
+        
         public enum Sex
         {
             Male,
