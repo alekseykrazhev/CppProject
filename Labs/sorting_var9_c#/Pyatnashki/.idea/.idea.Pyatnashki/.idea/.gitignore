@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Pyatnashki.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\Alex\Desktop\Project1\Labs\sorting_var9_c#\Pyatnashki\.idea\.idea.Pyatnashki\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
